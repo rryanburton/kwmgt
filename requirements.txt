@@ -8,3 +8,10 @@ django-redis==4.12.1
 celery==5.0.5
 
 flake8==3.9.0
+spotipy
+python-dotenv
+django-debug-toolbar
+
+djangorestframework
+markdown
+django-filter
